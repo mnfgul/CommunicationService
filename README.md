@@ -1,4 +1,5 @@
-### CommunicationService Instructions
+### AWS SNS CommunicationService Helper
+A helper class to manage AWS SNS topics and subscriptions.
 
 #### Setup
 - Setup AWS SDK for Laravel as described [here](#https://github.com/aws/aws-sdk-php-laravel)
